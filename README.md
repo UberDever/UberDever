@@ -12,7 +12,7 @@ Main fields of interest:
 
 Basically, any field, that has no GUI programming :)
 
-Hard skills:
+Technical skills:
 + C/C++ (also Qt)
 + Low level libraries/APIs
 + C#/Python as hobby level
