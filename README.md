@@ -2,6 +2,7 @@
 
 ---
 Every day I learn for something new and exciting!
+
 Currently learning professional programming in general and real-world tools for development. 
 
 My main fields of interest:
