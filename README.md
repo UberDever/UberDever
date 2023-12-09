@@ -1,20 +1,14 @@
-👋 Hi, I’m UberDever. Welcome to my Github profile!
+PLT/Compilers student, researcher, software engineer
 
----
-Every day I learn for something new and exciting!
+Interests:
+- System programming languages (especially without C++!)
+- Managed/High level languages (functional, ...)
+- PLT/Type theory/academia stuff
+- Complex and/or distributed systems
+- Gamedev/simulations/AI kind of stuff
 
-Currently learning professional programming in general and real-world tools for development. 
+Currently attending a master degree at ITMO university (Software engineering + PLT)
 
-My main fields of interest:
-* Gamedev
-* System software
-* Computer architecture
-* Machine learning
-* Web-based applications, backend
-
-At the time, I am studying in BSTU "Voenmeh" Technical University, Computer science bachelor degree.
-
-I love programming and engineering in general, and excited for interesting problems!
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=UberDever&custom_title=My%20Stats&theme=great-gatsby&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
-[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UberDever&theme=great-gatsby&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+Useful stuff:
+* [Telegram](https://t.me/uberdever)
+* [Linkedin](https://www.linkedin.com/in/maxim-orlovsky-448539250/)
