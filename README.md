@@ -1,7 +1,7 @@
 PLT/Compilers student, researcher, software engineer
 
 Interests:
-- System programming languages (especially without C++!)
+- System programming languages (C/C++, Zig, Rust)
 - Managed/High level languages (functional, ...)
 - PLT/Type theory/academia research
 - Complex and/or distributed systems
